@@ -11,8 +11,6 @@ public class SpringBootWsapiApplication {
 		SpringApplication.run(SpringBootWsapiApplication.class, args);
 	}
 
-	// Git commnads 
-	
 	
 //	…or create a new repository on the command line
 //
